@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProjetodoSenai/1.0.0": {
+        "runtime": {
+          "ProjetodoSenai.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetodoSenai/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
